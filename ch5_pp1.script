@@ -1,0 +1,25 @@
+Benjamin Wilson & Madison Mejia
+Prelab 2
+September 6, 2021
+
+Script started on 2021-09-06 17:46:53-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="188" LINES="11"]
+]0;ben@Clover-VirtualBox: ~/cse113/prelab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab2[00m$ gcc -g -Wall ch5_pp1.c -o cht[K5_pp1
+]0;ben@Clover-VirtualBox: ~/cse113/prelab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab2[00m$ ./ch5_pp1
+Enter an integer with less than 5 digits: 7
+
+The number, 7, has 1 digit.
+
+]0;ben@Clover-VirtualBox: ~/cse113/prelab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab2[00m$ ./ch5_pp1
+Enter an integer with less than 5 digits: -9999
+
+The number, -9999, has 4 digits.
+
+]0;ben@Clover-VirtualBox: ~/cse113/prelab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab2[00m$ ./ch5_pp1
+Enter an integer with less than 5 digits: 895
+
+The number, 895, has 3 digits.
+
+]0;ben@Clover-VirtualBox: ~/cse113/prelab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab2[00m$ exit
+exit
+
+Script done on 2021-09-06 17:48:53-06:00 [COMMAND_EXIT_CODE="0"]

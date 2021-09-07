@@ -1,0 +1,25 @@
+Benjamin Wilson & Madison Mejia
+Prelab 2
+September 6, 2021
+
+Script started on 2021-09-06 19:57:11-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="188" LINES="11"]
+]0;ben@Clover-VirtualBox: ~/cse113/prelab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab2[00m$ gcc -g -Wall ch5_ex11.c -o ch5_ex11
+]0;ben@Clover-VirtualBox: ~/cse113/prelab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab2[00m$ ./ch5_ex11
+Please input area code to find largest city: 478
+
+Macon
+
+]0;ben@Clover-VirtualBox: ~/cse113/prelab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab2[00m$ ./ch5_ex11
+Please input area code to find largest city: 770
+
+Atlanta
+
+]0;ben@Clover-VirtualBox: ~/cse113/prelab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab2[00m$ ./ch5_ex11
+Please input area code to find largest city: 999
+
+Area code not recognized
+
+]0;ben@Clover-VirtualBox: ~/cse113/prelab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/prelab2[00m$ exit
+exit
+
+Script done on 2021-09-06 19:58:27-06:00 [COMMAND_EXIT_CODE="0"]
